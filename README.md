@@ -1,4 +1,4 @@
-ETH Hangzhou Hackathon Project
+## ETH Hangzhou Hackathon Project
 
 ## WeiWallet基于权重值的多签合约钱包
 
@@ -31,8 +31,3 @@ ETH Hangzhou Hackathon Project
 12. 转账交易。
 13. 调用合约交易。
 14. 取消交易。
-
-
-
-
-# ETH-HangZhou-Hackathon-WeiWallet
